@@ -1,5 +1,5 @@
 # Annjo
-Project Annjo for Bot Music, it is based on the project Foxy-Music
+Project Annjo for Bot Music an improved version, it is based on the project Foxy-Music
 
 # Install
 1. Download and unzip the Annjo directory
