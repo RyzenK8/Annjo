@@ -1,3 +1,5 @@
+![]
+
 # Annjo
 Project Annjo for Bot Music an improved version, it is based on the project Foxy-Music
 
@@ -9,6 +11,7 @@ Project Annjo for Bot Music an improved version, it is based on the project Foxy
 5. Start the bot must write node server.js
 
 # Exemple config.json
+```
 {
 
 "PREFIX": "PREFIX", 
@@ -20,6 +23,7 @@ Project Annjo for Bot Music an improved version, it is based on the project Foxy
   "COLOR": "RANDOM"
 
 }
+```
 
 # Extra
 If you have a liunx server
