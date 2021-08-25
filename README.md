@@ -1,7 +1,7 @@
 # Annjo
 Project Annjo for Bot Music, it is based on the project Foxy-Music
 
-#Install
+# Install
 1. Download and unzip the Annjo directory
 2. Download NodeJS - https://nodejs.org the LTS version will advise
 3. You have to open the config.json files and fill in the information.
