@@ -1,5 +1,5 @@
 # Annjo
-Project Annjo for Bot Music, il est basé sur le projet Foxy-Music
+Project Annjo for Bot Music, it is based on the project Foxy-Music
 
 #Install
 1. Download and unzip the Annjo directory
@@ -7,6 +7,19 @@ Project Annjo for Bot Music, il est basé sur le projet Foxy-Music
 3. You have to open the config.json files and fill in the information.
 4. Open a terminal and write < npm install >
 5. Start the bot must write node server.js
+
+# Exemple config.json
+{
+
+"PREFIX": "PREFIX", 
+
+  "TOKEN": "YOUR TOKEN", 
+
+  "QUEUE_LIMIT": 0,
+
+  "COLOR": "RANDOM"
+
+}
 
 # Extra
 If you have a liunx server
